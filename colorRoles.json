@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Blue",
+        "color": "#0000ff"
+    },
+    {
+        "name": "Fuchsia",
+        "color": "#ff00ff"
+    },
+    {
+        "name": "Cyan",
+        "color": "#00ffff"
+    },
+    {
+        "name": "NeonRed",
+        "color": "#ff3131"
+    },
+    {
+        "name": "Biege",
+        "color": "#e6e6dd"
+    },
+    {
+        "name": "Amber",
+        "color": "#ffbf00"
+    },
+    {
+        "name": "Coral",
+        "color": "#ff7f50"
+    },
+    {
+        "name": "SpringGreen",
+        "color": "#00ff7f"
+    },
+    {
+        "name": "Aquamarine",
+        "color": "#7fffd4"
+    },
+    {
+        "name": "Orchid",
+        "color": "#da70d6"
+    },
+    {
+        "name": "RosyBrown",
+        "color": "#bc8f8f"
+    },
+    {
+        "name": "Red",
+        "color": "#ff0000"
+    },
+    {
+        "name": "OliveDrab",
+        "color": "#6b8e23"
+    },
+    {
+        "name": "LightSeaGreen",
+        "color": "#20b2aa"
+    },
+    {
+        "name": "Orange",
+        "color": "#ffa500"
+    },
+    {
+        "name": "Maroon",
+        "color": "#800000"
+    },
+    {
+        "name": "Byzantium",
+        "color": "#702963"
+    },
+    {
+        "name": "MediumSlateBlue",
+        "color": "#7b68ee"
+    },
+    {
+        "name": "Sienna",
+        "color": "#a0522d"
+    },
+    {
+        "name": "Peachpuff",
+        "color": "#ffdab9"
+    },
+    {
+        "name": "Cream",
+        "color": "#fffdd0"
+    },
+    {
+        "name": "PaleGoldenrod",
+        "color": "#eee8aa"
+    },
+    {
+        "name": "Salmon",
+        "color": "#fa8072"
+    },
+    {
+        "name": "OrangeRed",
+        "color": "#ff4500"
+    },
+    {
+        "name": "Crimson",
+        "color": "#dc143c"
+    },
+    {
+        "name": "DarkSeaGreen",
+        "color": "#8fbc8b"
+    },
+    {
+        "name": "Almond",
+        "color": "#fadcd2"
+    },
+    {
+        "name": "Tan",
+        "color": "#d2b48c"
+    },
+    {
+        "name": "Iris",
+        "color": "#5d3fd3"
+    },
+    {
+        "name": "PowderBlue",
+        "color": "#b0e0e6"
+    },
+    {
+        "name": "Bronze",
+        "color": "#cd7f32"
+    },
+    {
+        "name": "BlueViolet",
+        "color": "#8a2be2"
+    },
+    {
+        "name": "Brown",
+        "color": "#a52a2a"
+    },
+    {
+        "name": "Poppy",
+        "color": "#e35335"
+    },
+    {
+        "name": "Jade",
+        "color": "#00a36c"
+    },
+    {
+        "name": "LimeGreen",
+        "color": "#32cd32"
+    },
+    {
+        "name": "DodgerBlue",
+        "color": "#1e90ff"
+    },
+    {
+        "name": "Thistle",
+        "color": "#d8bfd8"
+    },
+    {
+        "name": "DarkSlateGray",
+        "color": "#2f4f4f"
+    },
+    {
+        "name": "Chartreuse",
+        "color": "#7fff00"
+    },
+    {
+        "name": "Blurple",
+        "color": "#586aea"
+    }
+]
